@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot-Helloworld
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Taowd
+Implementation-Vendor-Id: com.taowd.springboot
+Build-Jdk: 1.8.0
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot-H
+ elloworld/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

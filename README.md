@@ -27,4 +27,14 @@
    ![](http://i.imgur.com/j4hvx0q.png)
 
 
+# 进一步学习：
 
+	
+- 实现了使用Spring-Boot连接数据库，对数据库进行增删改查功能；
+- 使用Spring-Boot-JPA操作数据库，并进行事务管理
+
+
+# 參考文章：
+1. [http://blog.csdn.net/defi2013/article/details/52312612](http://blog.csdn.net/defi2013/article/details/52312612 "RESTClient插件POST方法传递参数 ")
+2. [http://www.cnblogs.com/s648667069/p/6478559.html](http://www.cnblogs.com/s648667069/p/6478559.html "SpringBoot 之 连接数据库(JPA-Hibernate)")
+3. [http://blog.csdn.net/xiaoyu411502/article/details/47864969](http://blog.csdn.net/xiaoyu411502/article/details/47864969 "Spring Boot 快速入门 ")
